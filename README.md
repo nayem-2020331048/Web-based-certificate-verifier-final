@@ -50,7 +50,15 @@ Our project relies on the following technologies, libraries, and tools:
 
 
 ## Front Page
+<img src = "Screenshot from 2024-03-19 09-46-42.png">
 
+## Certificate View Page
+
+<img src = "Screenshot from 2024-03-19 09-47-52.png">
+
+## Transcript View Page
+
+<img src = "Screenshot from 2024-03-19 09-48-34.png">
 
 ## Conclusion
 
