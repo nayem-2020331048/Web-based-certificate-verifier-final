@@ -49,9 +49,7 @@ Our project relies on the following technologies, libraries, and tools:
 
 
 
-## Database Design
-
-[Insert Database Design Information Here]
+## Front Page
 
 
 ## Conclusion
